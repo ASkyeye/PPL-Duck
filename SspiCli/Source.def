@@ -1,0 +1,3 @@
+LIBRARY SspiCli
+EXPORTS 
+ LogonUserExExW
